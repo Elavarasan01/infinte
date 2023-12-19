@@ -16,6 +16,11 @@ nav {
   position: fixed;
 }
 
+.nav-link{
+  font-weight: bold !important;
+  font-size: small !important;
+}
+
 .navbar .nav-link:hover {
   color: #f2195d;
 }
